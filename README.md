@@ -1,4 +1,4 @@
-<h1 align='center'>Vite typescript react library template⚡</h1>
+<h1 align='center'>React-version-dropdown⚡</h1>
 
 Create a new react library project with Vite, React JS, TypeScript, Eslint, Prettier in just 1 second and you don't need to setup anything.
 
